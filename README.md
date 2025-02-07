@@ -61,6 +61,9 @@ python app.py
 🔙 **Backend:** Python, Flask  
 📈 **Optimization:** Linear Programming algorithms  
 
+## 🤩 Preview
+- Added a folder with the images of working web
+
 ## 🤝 Contributing  
 1️⃣ **Fork** the repository  
 2️⃣ **Create** your feature branch  
